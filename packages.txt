@@ -1,2 +1,7 @@
 python3-sklearn
 python3-scipy
+build-essential
+gfortran
+libatlas-base-dev
+python-pip
+python-dev
